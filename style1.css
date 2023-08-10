@@ -1,0 +1,82 @@
+body{
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+body, div {
+    margin: 0;
+    padding: 0;
+}
+.bt-cima {
+    width: 100%;
+    background-color: #1273a1e7;
+    color: white;
+    padding: 60px;
+    box-sizing: border-box;
+}
+.logo{
+    width: 160px;
+    position: absolute;
+    left: 40px;
+    top: -30px;
+}
+.br-logo-title{
+    color: rgb(255, 255, 255);  
+    position: absolute;
+    left: 800px;
+    top: 30px;
+}
+
+.bt-texto{
+    color: #070505;
+    text-align: center;
+    text-align: left;
+    max-width: 700px;
+    margin: 0 auto;
+
+}
+.bt-titulo{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+
+}
+.bt-form {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.bi {
+    font-size: 24px;
+    vertical-align: middle;
+}
+input[type="number"],
+select {
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+input[type="submit"] {
+    background-color: #1274a1b7;
+    color: #030c00;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+.image-container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0; 
+}
