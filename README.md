@@ -27,7 +27,9 @@
 <img align="center" width="900"  alt="Dados"  src="https://github.com/brenno-0923/Calculadora_de_IMC/assets/85687957/76bcba32-7d2b-4e4a-91cc-07be39b5cfed"> <p>
 
 **📌Funcionamento:** <br>
-<img align="center" width="500"  alt="senha"  src="https://github.com/brenno-0923/Calculadora_de_IMC/assets/85687957/70312fa9-1dfe-4630-bfca-d3bc92a61586">
+Inserindo dados:
+<img align="center" width="500"  alt="senha"  src="https://github.com/brenno-0923/Calculadora_de_IMC/assets/85687957/70312fa9-1dfe-4630-bfca-d3bc92a61586"> <p>
+Recolhendo o imc:
 <img align="center" width="500"  alt="senha"  src="https://github.com/brenno-0923/Calculadora_de_IMC/assets/85687957/b363e463-15be-4617-9621-e09b773b6225"> <p>
 
 📌Após o usuário inserir seus dados, o sistema calcula o IMC e exibe o resultado. Além disso, uma tabela é apresentada para que o usuário possa entender se seu IMC está abaixo, dentro ou acima da faixa considerada saudável. Isso proporciona uma referência útil para avaliar o estado do seu peso.
